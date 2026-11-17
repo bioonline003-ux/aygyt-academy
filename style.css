@@ -1874,4 +1874,35 @@ header .logo img {
     .hero-visual {
         display: none;
     }
+}/* MOBILE HERO SLOGAN FIX */
+
+@media (max-width: 768px) {
+
+    .hero-slogan {
+        position: relative !important;
+        top: auto !important;
+        right: auto !important;
+        width: 100%;
+        margin: 25px auto 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-size: 17px;
+        line-height: 1.4;
+    }
+
+    .hero-slogan strong {
+        font-size: 23px !important;
+    }
+
+    .hero-slogan .quote-mark {
+        font-size: 22px;
+    }
+
+    .hero-content {
+        width: 100%;
+        padding: 30px 20px;
+        text-align: center;
+    }
 }
