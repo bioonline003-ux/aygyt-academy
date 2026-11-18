@@ -49,7 +49,6 @@ const translations = {
             ["INNOVATION", "Innovation Forums", "Discover new technologies, creative ideas and solutions for tomorrow."]
         ],
         conferenceBottom: "Knowledge connects the world.",
-        participant: "Become a Participant →",
         partnershipLabel: "BUILDING GLOBAL CONNECTIONS",
         partnershipTitle: "Partnerships",
         partnershipIntro: "We believe that meaningful collaboration creates opportunities for educational growth, scientific development and international exchange.",
@@ -121,7 +120,6 @@ const translations = {
             ["ИННОВАЦИИ", "Инновационные форумы", "Открывайте новые технологии, творческие идеи и решения будущего."]
         ],
         conferenceBottom: "Знания объединяют мир.",
-        participant: "Стать участником →",
         partnershipLabel: "СОЗДАВАЯ ГЛОБАЛЬНЫЕ СВЯЗИ",
         partnershipTitle: "Партнёрство",
         partnershipIntro: "Мы верим, что эффективное сотрудничество создаёт возможности для развития образования, науки и международного обмена.",
@@ -184,7 +182,7 @@ const translations = {
             ["Ylmy taslamalar", "Innowasion barlaglaryňy we özboluşly ylmy pikirleriňi hödürle."]
         ],
         learnMore: "Giňişleýin →",
-        conferenceLabel: "BIRLEŞDIRÝÄRIS • AÇÝARYS • ÖSdürÝÄRIS",
+        conferenceLabel: "BIRLEŞDIRÝÄRIS • AÇÝARYS • ÖSDÜRÝÄRIS",
         conferenceTitle: "Konferensiýalar we çäreler",
         conferenceIntro: "Bilim alyşmak, açyşlary paýlaşmak we innowasiýalary höweslendirmek üçin ýaş ylmy işgärleri, talyplary we akademiki hünärmenleri bir ýere jemleýäris.",
         conferenceCards: [
@@ -193,7 +191,6 @@ const translations = {
             ["INNOWASIÝA", "Innowasiýa forumlary", "Täze tehnologiýalar, döredijilikli pikirler we geljegiň çözgütleri bilen tanyş."]
         ],
         conferenceBottom: "Bilim dünýäni birleşdirýär.",
-        participant: "Gatnaşyjy bol →",
         partnershipLabel: "HALKARA HYZMATDAŞLYGY ÖSDÜRMEK",
         partnershipTitle: "Hyzmatdaşlyk",
         partnershipIntro: "Netijeli hyzmatdaşlygyň bilimiň ösmegi, ylmy ösüş we halkara tejribe alyşmak üçin täze mümkinçilikleri döredýändigine ynanýarys.",
