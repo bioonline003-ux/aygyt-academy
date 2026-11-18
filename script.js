@@ -20,7 +20,7 @@ if (menuButton && navigation) {
 // TRANSLATIONS
 const translations = {
     en: {
-        nav: ["Home", "About Us", "Competitions", "Conferences", "Partnerships", "News", "Contact"],
+        nav: ["Home", "About Us", "Competitions", "Partnerships", "News", "Contact"],
         slogan: ["Take Your", "Step", "Decisively"],
         eyebrow: "INTERNATIONAL ACADEMIC PLATFORM",
         heroTitle: "AYGYT ACADEMY",
@@ -92,7 +92,7 @@ const translations = {
     },
 
     ru: {
-        nav: ["Главная", "О нас", "Олимпиады", "Конференции", "Партнёрство", "Новости", "Контакты"],
+        nav: ["Главная", "О нас", "Олимпиады", "Партнёрство", "Новости", "Контакты"],
         slogan: ["Сделай свой", "шаг", "решительно"],
         eyebrow: "МЕЖДУНАРОДНАЯ АКАДЕМИЧЕСКАЯ ПЛАТФОРМА",
         heroTitle: "AYGYT ACADEMY",
@@ -164,8 +164,8 @@ const translations = {
     },
 
     tk: {
-        nav: ["Baş sahypa", "Biz barada", "Bäsleşikler", "Konferensiýalar", "Hyzmatdaşlyk", "Täzelikler", "Habarlaşmak"],
-        slogan: ["Ädimiňi", "aýgytly", "äde"],
+        nav: ["Baş sahypa", "Biz barada", "Bäsleşikler", "Hyzmatdaşlyk", "Täzelikler", "Habarlaşmak"],
+        slogan: ["Ädimiňi", "aýgytly", "ät"],
         eyebrow: "HALKARA AKADEMIK PLATFORMASY",
         heroTitle: "AYGYT ACADEMY",
         heroSubtitle: 'Täze nesliň <span>ylmy liderlerini</span> ösdürýäris',
