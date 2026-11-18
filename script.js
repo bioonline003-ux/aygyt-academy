@@ -31,7 +31,7 @@ const translations = {
         aboutTitle: "About AYGYT ACADEMY",
         aboutText: "AYGYT ACADEMY is an emerging academic initiative dedicated to promoting education, scientific research and international collaboration. We aim to create opportunities for students, young researchers and educators worldwide.",
         competitionLabel: "DISCOVER YOUR POTENTIAL",
-        competitionTitle: "International Competitions",
+        competitionTitle: "Competitions",
         competitionIntro: "Explore opportunities to demonstrate your knowledge, creativity and scientific abilities.",
         competitionCards: [
             ["Biology & Ecology", "Discover life sciences, biodiversity and environmental innovation."],
@@ -103,7 +103,7 @@ const translations = {
         aboutTitle: "Об AYGYT ACADEMY",
         aboutText: "AYGYT ACADEMY — развивающаяся академическая инициатива, направленная на продвижение образования, научных исследований и международного сотрудничества. Мы стремимся создавать возможности для студентов, молодых исследователей и преподавателей по всему миру.",
         competitionLabel: "РАСКРОЙТЕ СВОЙ ПОТЕНЦИАЛ",
-        competitionTitle: "Международные конкурсы",
+        competitionTitle: "Конкурсы",
         competitionIntro: "Откройте возможности продемонстрировать свои знания, творческие способности и научный потенциал.",
         competitionCards: [
             ["Биология и экология", "Изучайте науки о жизни, биоразнообразие и экологические инновации."],
@@ -175,7 +175,7 @@ const translations = {
         aboutTitle: "AYGYT ACADEMY barada",
         aboutText: "AYGYT ACADEMY — bilimi, ylmy barlaglary we halkara hyzmatdaşlygy ösdürmäge gönükdirilen täze akademiki başlangyçdyr. Biz dünýäniň dürli künjeklerindäki talyplar, ýaş ylmy işgärler we mugallymlar üçin täze mümkinçilikleri döretmegi maksat edinýäris.",
         competitionLabel: "ÖZ MÜMKINÇILIGIŇI AÇ",
-        competitionTitle: "Halkara bäsleşikler",
+        competitionTitle: "Bäsleşikler",
         competitionIntro: "Bilimiňi, döredijiligiňi we ylmy başarnyklaryňy görkezmek üçin mümkinçilikleri öwren.",
         competitionCards: [
             ["Biologiýa we ekologiýa", "Janly tebigat ylymlaryny, biodürlüligi we ekologik innowasiýalary öwren."],
